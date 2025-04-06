@@ -1,0 +1,14 @@
+D:\Semester 2\PBO\Ngoding\THR\THR\bin\Debug\net9.0\THR.exe
+D:\Semester 2\PBO\Ngoding\THR\THR\bin\Debug\net9.0\THR.deps.json
+D:\Semester 2\PBO\Ngoding\THR\THR\bin\Debug\net9.0\THR.runtimeconfig.json
+D:\Semester 2\PBO\Ngoding\THR\THR\bin\Debug\net9.0\THR.dll
+D:\Semester 2\PBO\Ngoding\THR\THR\bin\Debug\net9.0\THR.pdb
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.AssemblyInfoInputs.cache
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.AssemblyInfo.cs
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.csproj.CoreCompileInputs.cache
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.dll
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\refint\THR.dll
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.pdb
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.genruntimeconfig.cache
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\ref\THR.dll
