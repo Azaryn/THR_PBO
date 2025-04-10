@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 using System.Threading.Channels;
-
+using THR;
 class Program
 {
     static void Main()
@@ -50,77 +50,5 @@ class Program
         } while (Console.ReadLine()?.ToUpper() == "Y");
         Console.WriteLine("Terimakasih, Bye! ^0^");
 
-    }
-}
-abstract class Karyawan
-{
-    private string _Nama;
-    private string _ID;
-    private double _GajiPokok;
-
-    public string Nama
-    {
-        get { return _Nama; }
-        set { _Nama = value; }
-    }
-    public string ID
-    {
-        get { return _ID; }
-        set { _ID = value; }
-    }
-    public double GajiPokok
-    {
-        get { return _GajiPokok; }
-        set { _GajiPokok = value; }
-    }
-    public abstract void HitungGaji(double gajiPokok);
-}
-class KaryawanTetap : Karyawan
-{
-    private double Bonus = 500000;
-    public KaryawanTetap(string nama,string id) : base()
-    {
-        Nama = nama;
-        ID = id + DateTime.Now.ToString("dd");
-        Console.WriteLine($"Nama Karyawan Tetap: {Nama}");
-        Console.WriteLine($"ID Card Karyawan Tetap: {ID}");
-    }
-    public override void HitungGaji(double gajiPokok)
-    {
-        GajiPokok = gajiPokok;
-        double TotalGaji = GajiPokok + Bonus;
-        Console.WriteLine($"Gaji {Nama} bulan ini sebesar {TotalGaji}");
-    }
-}
-class KaryawanKontrak : Karyawan
-{
-    private double Potongan = 200000;
-    public KaryawanKontrak(string nama, string id) : base()
-    {
-        Nama = nama;
-        ID = id + DateTime.Now.ToString("dd");
-        Console.WriteLine($"Nama Karyawan Kotrak: {Nama}");
-        Console.WriteLine($"ID Card Karyawan Kotrak: {ID}");
-    }
-    public override void HitungGaji(double gajiPokok)
-    {
-        GajiPokok = gajiPokok;
-        double TotalGaji = GajiPokok - Potongan;
-        Console.WriteLine($"Gaji {Nama} bulan ini sebesar {TotalGaji}");
-    }
-}
-class KaryawanMagang : Karyawan
-{
-    public KaryawanMagang(string nama, string id) : base()
-    {
-        Nama = nama;
-        ID = id + DateTime.Now.ToString("dd");
-        Console.WriteLine($"Nama Karyawan Magang: {Nama}");
-        Console.WriteLine($"ID Card Karyawan Magang: {ID}");
-    }
-    public override void HitungGaji(double gajiPokok)
-    {
-        GajiPokok = gajiPokok;
-        Console.WriteLine($"Nama {Nama} bulan ini sebesar {GajiPokok}");
     }
 }
