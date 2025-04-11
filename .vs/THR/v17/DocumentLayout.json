@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 2\\PBO\\Ngoding\\THR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04895A3C-6B4D-4448-9119-4F164B790629}|THR\\THR.csproj|d:\\semester 2\\pbo\\ngoding\\thr\\thr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04895A3C-6B4D-4448-9119-4F164B790629}|THR\\THR.csproj|solutionrelative:thr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04895A3C-6B4D-4448-9119-4F164B790629}|THR\\THR.csproj|d:\\semester 2\\pbo\\ngoding\\thr\\thr\\karyawankontrak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04895A3C-6B4D-4448-9119-4F164B790629}|THR\\THR.csproj|solutionrelative:thr\\karyawankontrak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04895A3C-6B4D-4448-9119-4F164B790629}|THR\\THR.csproj|d:\\semester 2\\pbo\\ngoding\\thr\\thr\\karyawantetap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04895A3C-6B4D-4448-9119-4F164B790629}|THR\\THR.csproj|solutionrelative:thr\\karyawantetap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04895A3C-6B4D-4448-9119-4F164B790629}|THR\\THR.csproj|d:\\semester 2\\pbo\\ngoding\\thr\\thr\\karyawanmagang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04895A3C-6B4D-4448-9119-4F164B790629}|THR\\THR.csproj|solutionrelative:thr\\karyawanmagang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KaryawanKontrak.cs",
+              "DocumentMoniker": "D:\\Semester 2\\PBO\\Ngoding\\THR\\THR\\KaryawanKontrak.cs",
+              "RelativeDocumentMoniker": "THR\\KaryawanKontrak.cs",
+              "ToolTip": "D:\\Semester 2\\PBO\\Ngoding\\THR\\THR\\KaryawanKontrak.cs",
+              "RelativeToolTip": "THR\\KaryawanKontrak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:55:43.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KaryawanTetap.cs",
+              "DocumentMoniker": "D:\\Semester 2\\PBO\\Ngoding\\THR\\THR\\KaryawanTetap.cs",
+              "RelativeDocumentMoniker": "THR\\KaryawanTetap.cs",
+              "ToolTip": "D:\\Semester 2\\PBO\\Ngoding\\THR\\THR\\KaryawanTetap.cs*",
+              "RelativeToolTip": "THR\\KaryawanTetap.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:55:30.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KaryawanMagang.cs",
+              "DocumentMoniker": "D:\\Semester 2\\PBO\\Ngoding\\THR\\THR\\KaryawanMagang.cs",
+              "RelativeDocumentMoniker": "THR\\KaryawanMagang.cs",
+              "ToolTip": "D:\\Semester 2\\PBO\\Ngoding\\THR\\THR\\KaryawanMagang.cs",
+              "RelativeToolTip": "THR\\KaryawanMagang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:01:41.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester 2\\PBO\\Ngoding\\THR\\THR\\Program.cs",
+              "RelativeDocumentMoniker": "THR\\Program.cs",
+              "ToolTip": "D:\\Semester 2\\PBO\\Ngoding\\THR\\THR\\Program.cs",
+              "RelativeToolTip": "THR\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:12:03.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

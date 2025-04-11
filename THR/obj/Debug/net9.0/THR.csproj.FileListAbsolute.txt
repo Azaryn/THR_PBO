@@ -12,3 +12,4 @@ D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\refint\THR.dll
 D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.pdb
 D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.genruntimeconfig.cache
 D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\ref\THR.dll
+D:\Semester 2\PBO\Ngoding\THR\THR\obj\Debug\net9.0\THR.sourcelink.json

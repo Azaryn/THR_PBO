@@ -9,7 +9,7 @@ namespace THR
     class KaryawanTetap : Karyawan
     {
         private double Bonus = 500000;
-        public KaryawanTetap(string nama, string id) : base()
+        public KaryawanTetap(string nama, string id)
         {
             Nama = nama;
             ID = id + DateTime.Now.ToString("dd");

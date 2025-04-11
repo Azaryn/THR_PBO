@@ -8,7 +8,7 @@ namespace THR
 {
     class KaryawanMagang : Karyawan
     {
-        public KaryawanMagang(string nama, string id) : base()
+        public KaryawanMagang(string nama, string id)
         {
             Nama = nama;
             ID = id + DateTime.Now.ToString("dd");
